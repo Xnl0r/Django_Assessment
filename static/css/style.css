@@ -1,0 +1,12 @@
+.heading{
+    font-family: cursive;
+    font-size: 45px;
+    text-decoration: underline;
+}
+.paragraph{
+     font-family: cursive;
+    font-size: 35px;
+}
+.body{
+    background-color: bisque;
+}
